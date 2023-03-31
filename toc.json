@@ -1,0 +1,142 @@
+{
+  "items": [
+    {
+      "type": "item",
+      "title": "What's new",
+      "uri": "docs/What's-New.md"
+    },
+    {
+      "type": "item",
+      "title": "Introduction",
+      "uri": "docs/Introduction.md"
+    },
+    {
+      "type": "item",
+      "title": "Sample scripts",
+      "uri": "docs/Sample-scripts.md"
+    },
+    {
+      "type": "divider",
+      "title": "Getting Started"
+    },
+    {
+      "type": "item",
+      "title": "Security",
+      "uri": "docs/Security.md"
+    },
+    {
+      "type": "item",
+      "title": "Performance",
+      "uri": "docs/Performance.md"
+    },
+    {
+      "type": "item",
+      "title": "Base URIs",
+      "uri": "docs/Getting Started/Base-URI.md"
+    },
+    {
+      "type": "item",
+      "title": "Authentication",
+      "uri": "docs/Getting Started/Authentication.md"
+    },
+    {
+      "type": "item",
+      "title": "Authorization",
+      "uri": "docs/Getting Started/Authorization.md"
+    },
+    {
+      "type": "item",
+      "title": "Addressing resources",
+      "uri": "docs/Getting Started/Resource-addressing.md"
+    },
+    {
+      "type": "item",
+      "title": "Resource operations",
+      "uri": "docs/Getting Started/Resource-operations.md"
+    },
+    {
+      "type": "item",
+      "title": "Request headers",
+      "uri": "docs/Getting Started/Request-headers.md"
+    },
+    {
+      "type": "item",
+      "title": "Response headers",
+      "uri": "docs/Getting Started/Response-headers.md"
+    },
+    {
+      "type": "item",
+      "title": "Response codes",
+      "uri": "docs/Getting Started/Response-codes.md"
+    },
+    {
+      "type": "item",
+      "title": "Limitations",
+      "uri": "docs/Limitations.md"
+    },
+    {
+      "type": "item",
+      "title": "Filtering data",
+      "uri": "docs/Tasks/Filter-data.md"
+    },
+    {
+      "type": "item",
+      "title": "Sorting data",
+      "uri": "docs/Tasks/Sorting-data.md"
+    },
+    {
+      "type": "item",
+      "title": "Paginating data",
+      "uri": "docs/Tasks/Pagination.md"
+    },
+    {
+      "type": "divider",
+      "title": "Workflows"
+    }, 
+    {
+      "type": "item",
+      "title": "Managing alert policies",
+      "uri": "docs/Tasks/Alerts_Policy.md"
+    },
+    {
+      "type": "item",
+      "title": "Managing alerts",
+      "uri": "docs/Tasks/Alerts.md"
+    },
+    {
+      "type": "item",
+      "title": "Getting device inventory",
+      "uri": "docs/Tasks/device_inventory_retrieval_rk.md"
+    },
+    {
+      "type": "item",
+      "title": "Discovering devices",
+      "uri": "docs/Tasks/Discovery.md"
+    },
+    {
+      "type": "item",
+      "title": "Updating device firmware",
+      "uri": "docs/Tasks/firmware_update_rk.md"
+    },
+    {
+      "type": "item",
+      "title": "Managing groups",
+      "uri": "docs/Tasks/Groups.md"
+    },
+    {
+      "type": "item",
+      "title": "Managing static groups",
+      "uri": "docs/Tasks/StaticGroups.md"
+    },
+    {
+      "type": "item",
+      "title": "Managing query groups",
+      "uri": "docs/Tasks/QueryGroups.md"
+    },
+    {
+      "type": "item",
+      "title": "Services",
+      "uri": "reference/LatestODataAPIDocumentForOME3.8.json"
+    }
+  ]
+}
